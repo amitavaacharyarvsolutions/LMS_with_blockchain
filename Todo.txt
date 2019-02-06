@@ -1,0 +1,51 @@
+solidity --- memory vs storage, type casting, test cases in solidity, zeppelin
+
+
+SPEED UP
+********
+
+constructor - ✓
+
+getOwner - function done, test pending
+
+addMember - ✓  (test case pending for duplicate and owner) and Reactivate if member is deactivated
+
+deactivateMember -  ✓ (test pending)
+
+getOwnerDetails - ✓ (test case pending)
+
+getMemberDetails - ✓ (test case pending)
+
+addBook - ✓ (test case completed)
+
+addMemberWithBooks - ✓ (test case pending)
+
+getMemberList - Function not working (test case pending)
+
+getBookList - Function not working (test case pending)
+
+getBook - Pending
+
+getBooks - pending
+
+getMyBooks - Pending
+
+borrowBook - ✓ (test case pending)
+
+returnBook - ✓ (test case pending)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+issues faced - 
+
+memory to storage
+truffle installation
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Go through
+
+Travis
+Ethereum Alarm Clock
+
+Timeout in event test case
+Optimization in AddBooks method
+
